@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581630773747",
+    "project_id": "besheger-services",
+    "storage_bucket": "besheger-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581630773747:android:5262329a05a42536e3aa86",
+        "android_client_info": {
+          "package_name": "com.besheger.negade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2lSTPCEf4FSEQvUTh2DcTrcwNy7qHa7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

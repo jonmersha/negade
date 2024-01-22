@@ -1,4 +1,4 @@
-package com.besheger.negade.negade
+package com.besheger.negade
 
 import io.flutter.embedding.android.FlutterActivity
 
